@@ -3,7 +3,7 @@
 //PROBLEMA DA ÁREA//
 
 /*Na área determinada da empresa havia uma dificuldade enorme, pois os motoristas demoravam muito pra informar seus dados a portaria da entrada;
-e depois passar os numeros das notas fiscais(eram várias notas fiscais por se tratar de muito material entregue.
+e depois passar os numeros das notas fiscais(eram várias notas fiscais por se tratar de muito material entregue).
 
 //SOLUÇÃO//
 então pensei em implementar formularios distintos:
